@@ -256,13 +256,13 @@ body {
   font-size: 34px;
 }
 .img_swipe li:nth-child(1) {
-  background-color: yellowgreen;
+  background-color: #fff;
 }
 .img_swipe li:nth-child(2) {
-  background-color: blue;
+  background-color: #fff;
 }
 .img_swipe li:nth-child(3) {
-  background-color: red;
+  background-color: #fff;
 }
 .img_swipe label[for^="about"] {
   position: absolute;
